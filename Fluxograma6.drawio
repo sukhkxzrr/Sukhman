@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="jvb5hzxFz9iqXk_ZYAQv" name="Página-1">
+    <mxGraphModel dx="1627" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yxHCfab0fjC0WjYxq-gI-3" edge="1" parent="1" source="yxHCfab0fjC0WjYxq-gI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yxHCfab0fjC0WjYxq-gI-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yxHCfab0fjC0WjYxq-gI-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="Início" vertex="1">
+          <mxGeometry height="80" width="120" x="80" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yxHCfab0fjC0WjYxq-gI-5" edge="1" parent="1" source="yxHCfab0fjC0WjYxq-gI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yxHCfab0fjC0WjYxq-gI-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yxHCfab0fjC0WjYxq-gI-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="Quantos N quer sumar" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="yxHCfab0fjC0WjYxq-gI-7" edge="1" parent="1" source="yxHCfab0fjC0WjYxq-gI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yxHCfab0fjC0WjYxq-gI-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yxHCfab0fjC0WjYxq-gI-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="Ler N" vertex="1">
+          <mxGeometry height="70" width="130" x="75" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="yxHCfab0fjC0WjYxq-gI-9" edge="1" parent="1" source="yxHCfab0fjC0WjYxq-gI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yxHCfab0fjC0WjYxq-gI-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yxHCfab0fjC0WjYxq-gI-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="Sumar todos os N" vertex="1">
+          <mxGeometry height="70" width="130" x="75" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="yxHCfab0fjC0WjYxq-gI-11" edge="1" parent="1" source="yxHCfab0fjC0WjYxq-gI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yxHCfab0fjC0WjYxq-gI-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yxHCfab0fjC0WjYxq-gI-8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="Escrever soma" vertex="1">
+          <mxGeometry height="70" width="130" x="75" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="yxHCfab0fjC0WjYxq-gI-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="Fim" vertex="1">
+          <mxGeometry height="80" width="120" x="80" y="940" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
