@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="Aczw89rPM9ukEF78S6Bj" name="Página-1">
+    <mxGraphModel dx="1720" dy="930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LzeJ3MouBAvV7PWZ6hou-3" edge="1" parent="1" source="LzeJ3MouBAvV7PWZ6hou-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LzeJ3MouBAvV7PWZ6hou-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LzeJ3MouBAvV7PWZ6hou-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Início" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LzeJ3MouBAvV7PWZ6hou-5" edge="1" parent="1" source="LzeJ3MouBAvV7PWZ6hou-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LzeJ3MouBAvV7PWZ6hou-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LzeJ3MouBAvV7PWZ6hou-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" value="ler kmi, kmf, litros" vertex="1">
+          <mxGeometry height="60" width="249" x="289.5" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="LzeJ3MouBAvV7PWZ6hou-8" edge="1" parent="1" source="LzeJ3MouBAvV7PWZ6hou-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LzeJ3MouBAvV7PWZ6hou-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LzeJ3MouBAvV7PWZ6hou-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="litros_aos_100=litros*100/(kmf-kmi)" vertex="1">
+          <mxGeometry height="70" width="249" x="289" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="LzeJ3MouBAvV7PWZ6hou-10" edge="1" parent="1" source="LzeJ3MouBAvV7PWZ6hou-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LzeJ3MouBAvV7PWZ6hou-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LzeJ3MouBAvV7PWZ6hou-7" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Escrever litros_aos_100" vertex="1">
+          <mxGeometry height="70" width="249" x="289.5" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="LzeJ3MouBAvV7PWZ6hou-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Fim" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="660" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
